@@ -1,0 +1,5 @@
+mysql:
+  dsn : root:root@tcp(127.0.0.1:3306)/gin_im?charset=utf8&parseTime=True&loc=Local
+
+redis:
+  
